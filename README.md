@@ -7,4 +7,4 @@ Ele é pequeno por só ser pra uma atividade.
 
 1. Sou estudante da Fatec;
 2. Moro em Jacareí;
-3. Curso DSM (Desenvolvimento de Software Multiplataforma)
+3. Curso DSM (Desenvolvimento de Software Multiplataforma).
